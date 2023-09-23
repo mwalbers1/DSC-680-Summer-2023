@@ -1,0 +1,10 @@
+cluster,0,1,2,3
+Count,"29,924",474,761,632
+Total Clicks Mean,1.02,2.90,2.16,2.36
+Total Clicks Median,1,2,2,2
+Total Clicks Min,1,2,2,2
+Total Clicks Max,4,16,6,7
+Click Time Range Mean,3.85,"3,128.31",951.80,"1,915.00"
+Click Time Range Median,0,"3,030",950,"1,902"
+Click Time Range Min,0,"2,525",480,"1,435"
+Click Time Range Max,477,"4,256","1,431","2,520"

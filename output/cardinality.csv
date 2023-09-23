@@ -1,0 +1,3 @@
+index,0,1,2,3
+categorical variable,app,channel,device,os
+cardinality,173,163,305,104
