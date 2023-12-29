@@ -70,6 +70,5 @@ The K-Nearest Neighbors, Decision Tree, and Random Forest models each classifies
 
 [Random Forest Model](https://github.com/mwalbers1/DSC-680-Summer-2023/blob/main/Random%20Forest%20Model.ipynb)
 
-
-
-
+## Final Presentation
+<a href="https://github.com/mwalbers1/DSC-680-Summer-2023/blob/main/Michael_Albers_Capstone_Presentation.pdf" target="_blank">Capstone Presentation</a>
